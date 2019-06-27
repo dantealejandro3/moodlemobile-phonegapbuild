@@ -69,8 +69,8 @@
         }
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "http://35.243.230.180/",
+    "sitename": "AEBU 365",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
